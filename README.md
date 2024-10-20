@@ -1,4 +1,5 @@
-CREDIT CARD FRAUD DETECTION
+#CREDIT CARD FRAUD DETECTION
+
 This project is part of my internship at CodSoft, where I developed a machine learning model to detect fraudulent credit card transactions. The model is trained using a balanced dataset of credit card transactions, and it employs a Random Forest classifier to achieve high accuracy in detecting fraud.
 
 Features:
